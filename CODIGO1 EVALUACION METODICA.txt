@@ -1,0 +1,175 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Evaluación Metódica</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #000;
+            color: #fff;
+        }
+
+        h1 {
+            text-align: center;
+            margin-top: 20px;
+        }
+
+        table {
+            width: 90%;
+            margin: 20px auto;
+            border-collapse: collapse;
+            table-layout: fixed;
+        }
+
+        th, td {
+            border: 1px solid #fff;
+            padding: 10px;
+            text-align: center;
+            color: #fff;
+        }
+
+        th {
+            background-color: #333;
+        }
+
+        td {
+            background-color: #222;
+        }
+
+        td input {
+            width: 100%;
+            background: transparent;
+            border: none;
+            color: #fff;
+            text-align: center;
+        }
+
+        td input::placeholder {
+            color: #aaa;
+        }
+    </style>
+</head>
+<body>
+    <h1>EVALUACIÓN METÓDICA, ¿DÓNDE ESTÁS TÚ?</h1>
+    <table>
+        <tr>
+            <th>RTA FDD/ADO</th>
+            <th>GOCE</th>
+            <th>ANGUSTIA</th>
+            <th>DESEO</th>
+            <th>CUADRANTE</th>
+        </tr>
+        <!-- Generar 15 filas para las horas del día -->
+        <tr>
+            <td><input type="text" placeholder="Escribir"></td>
+            <td><input type="text" placeholder="Escribir"></td>
+            <td><input type="text" placeholder="Escribir"></td>
+            <td><input type="text" placeholder="Escribir"></td>
+            <td><input type="text" placeholder="Escribir"></td>
+        </tr>
+        <tr>
+            <td><input type="text" placeholder="Escribir"></td>
+          
+            <td><input type="text" placeholder="Escribir"></td>
+            <td><input type="text" placeholder="Escribir"></td>
+            <td><input type="text" placeholder="Escribir"></td>
+            <td><input type="text" placeholder="Escribir"></td>
+        </tr>
+        <tr>
+            <td><input type="text" placeholder="Escribir"></td>
+            <td><input type="text" placeholder="Escribir"></td>
+            <td><input type="text" placeholder="Escribir"></td>
+            <td><input type="text" placeholder="Escribir"></td>
+            <td><input type="text" placeholder="Escribir"></td>
+        </tr>
+        <tr>
+            <td><input type="text" placeholder="Escribir"></td>
+            <td><input type="text" placeholder="Escribir"></td>
+            <td><input type="text" placeholder="Escribir"></td>
+            <td><input type="text" placeholder="Escribir"></td>
+            <td><input type="text" placeholder="Escribir"></td>
+        </tr>
+        <tr>
+            <td><input type="text" placeholder="Escribir"></td>
+            <td><input type="text" placeholder="Escribir"></td>
+            <td><input type="text" placeholder="Escribir"></td>
+            <td><input type="text" placeholder="Escribir"></td>
+            <td><input type="text" placeholder="Escribir"></td>
+        </tr>
+        <tr>
+            <td><input type="text" placeholder="Escribir"></td>
+            <td><input type="text" placeholder="Escribir"></td>
+            <td><input type="text" placeholder="Escribir"></td>
+            <td><input type="text" placeholder="Escribir"></td>
+            <td><input type="text" placeholder="Escribir"></td>
+        </tr>
+        <tr>
+            <td><input type="text" placeholder="Escribir"></td>
+            <td><input type="text" placeholder="Escribir"></td>
+            <td><input type="text" placeholder="Escribir"></td>
+            <td><input type="text" placeholder="Escribir"></td>
+            <td><input type="text" placeholder="Escribir"></td>
+        </tr>
+        <tr>
+            <td><input type="text" placeholder="Escribir"></td>
+            <td><input type="text" placeholder="Escribir"></td>
+            <td><input type="text" placeholder="Escribir"></td>
+            <td><input type="text" placeholder="Escribir"></td>
+            <td><input type="text" placeholder="Escribir"></td>
+        </tr>
+        <tr>
+            <td><input type="text" placeholder="Escribir"></td>
+            <td><input type="text" placeholder="Escribir"></td>
+            <td><input type="text" placeholder="Escribir"></td>
+            <td><input type="text" placeholder="Escribir"></td>
+            <td><input type="text" placeholder="Escribir"></td>
+        </tr>
+        <tr>
+            <td><input type="text" placeholder="Escribir"></td>
+            <td><input type="text" placeholder="Escribir"></td>
+            <td><input type="text" placeholder="Escribir"></td>
+            <td><input type="text" placeholder="Escribir"></td>
+            <td><input type="text" placeholder="Escribir"></td>
+        </tr>
+        <tr>
+            <td><input type="text" placeholder="Escribir"></td>
+            <td><input type="text" placeholder="Escribir"></td>
+            <td><input type="text" placeholder="Escribir"></td>
+            <td><input type="text" placeholder="Escribir"></td>
+            <td><input type="text" placeholder="Escribir"></td>
+        </tr>
+        <tr>
+            <td><input type="text" placeholder="Escribir"></td>
+            <td><input type="text" placeholder="Escribir"></td>
+            <td><input type="text" placeholder="Escribir"></td>
+            <td><input type="text" placeholder="Escribir"></td>
+            <td><input type="text" placeholder="Escribir"></td>
+        </tr>
+        <tr>
+            <td><input type="text" placeholder="Escribir"></td>
+            <td><input type="text" placeholder="Escribir"></td>
+            <td><input type="text" placeholder="Escribir"></td>
+            <td><input type="text" placeholder="Escribir"></td>
+            <td><input type="text" placeholder="Escribir"></td>
+        </tr>
+        <tr>
+            <td><input type="text" placeholder="Escribir"></td>
+            <td><input type="text" placeholder="Escribir"></td>
+            <td><input type="text" placeholder="Escribir"></td>
+            <td><input type="text" placeholder="Escribir"></td>
+            <td><input type="text" placeholder="Escribir"></td>
+        </tr>
+        <tr>
+            <td><input type="text" placeholder="Escribir"></td>
+            <td><input type="text" placeholder="Escribir"></td>
+            <td><input type="text" placeholder="Escribir"></td>
+            <td><input type="text" placeholder="Escribir"></td>
+            <td><input type="text" placeholder="Escribir"></td>
+        </tr>
+    </table>
+</body>
+</html>
